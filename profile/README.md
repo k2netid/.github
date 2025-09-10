@@ -1,33 +1,64 @@
-# K2NET - PT. Kirana Karina Network
+# 🏢 K2NET - PT. Kirana Karina Network
 
-## About Us
+<div align="center">
+  <img src="https://img.shields.io/badge/Company-K2NET-blue?style=for-the-badge&logo=company" alt="K2NET Company">
+  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Industry-IT%20Solutions-orange?style=for-the-badge" alt="Industry">
+</div>
 
-**K2NET** (PT. Kirana Karina Network) is a leading IT solutions provider committed to delivering innovative technology solutions to meet diverse business needs.
+---
 
-**Our Mission:** "Provide Different IT Solutions"
+## 📋 Table of Contents
 
-## Contact Information
+- [🏢 About Us](#-about-us)
+- [🎯 Our Mission & Vision](#-our-mission--vision)
+- [👥 Our Team](#-our-team)
+- [🛠️ Our Services](#️-our-services)
+- [🏫 Our Clients](#-our-clients)
+- [📞 Contact Information](#-contact-information)
+- [🌐 Quick Links](#-quick-links)
 
-- **Website:** https://k2net.id
-- **Email:** info@k2net.id
-- **Company:** PT. Kirana Karina Network
+---
 
-## Development Team
+## 🏢 About Us
 
-- **Jejak Awan:** https://jejakawan.com
-- **Ex-Cloud**
+**K2NET** (PT. Kirana Karina Network) is a leading IT solutions provider committed to delivering innovative technology solutions to meet diverse business needs across Indonesia.
 
-## Our Clients
+### 🎯 Our Mission & Vision
+
+- **Mission:** "Provide Different IT Solutions"
+- **Vision:** To be the premier IT solutions provider that transforms businesses through innovative technology
+
+### 🛠️ Our Services
+
+- **IT Infrastructure Solutions**
+- **Educational Technology Services**
+- **Network Management**
+- **System Integration**
+- **Technical Support & Maintenance**
+
+---
+
+## 👥 Our Team
+
+### Development Partners
+- **🌐 Jejak Awan:** [https://jejakawan.com](https://jejakawan.com)
+- **☁️ Ex-Cloud**
+
+---
+
+## 🏫 Our Clients
 
 We are proud to serve educational institutions and organizations across Indonesia. Our clients are organized by education level:
 
-### Elementary Schools (SD)
+### 📚 Elementary Schools (SD)
 
-| No | School Name | No | School Name |
-|----|-------------|----|-------------|
-| 1 | SDN 036 Bandung | 2 | SDN 250 Jakarta Purwa |
+| No | School Name | Location |
+|----|-------------|----------|
+| 1 | SDN 036 Bandung | Bandung |
+| 2 | SDN 250 Jakarta Purwa | Jakarta |
 
-### Junior High Schools (SMP)
+### 🎓 Junior High Schools (SMP)
 
 | No | School Name | No | School Name |
 |----|-------------|----|-------------|
@@ -46,25 +77,55 @@ We are proud to serve educational institutions and organizations across Indonesi
 | 13 | SMP Negeri 35 Bandung | 27 | SMP Waringin |
 | 14 | SMP Negeri 36 Bandung | | |
 
-### Senior High Schools (SMA)
+### 🎓 Senior High Schools (SMA)
 
-| No | School Name | No | School Name |
-|----|-------------|----|-------------|
-| 1 | SMA Negeri 1 Soreang | 3 | SMA Negeri 24 Bandung |
-| 2 | SMA Negeri 6 Cimahi | 4 | SMA Trinitas |
+| No | School Name | Location |
+|----|-------------|----------|
+| 1 | SMA Negeri 1 Soreang | Soreang |
+| 2 | SMA Negeri 6 Cimahi | Cimahi |
+| 3 | SMA Negeri 24 Bandung | Bandung |
+| 4 | SMA Trinitas | Bandung |
 
-### Vocational High Schools (SMK)
+### 🔧 Vocational High Schools (SMK)
 
-| No | School Name |
-|----|-------------|
-| 1 | SMK Negeri 6 Bandung |
+| No | School Name | Location |
+|----|-------------|----------|
+| 1 | SMK Negeri 6 Bandung | Bandung |
 
-### Other Educational Institutions
+### 🏛️ Other Educational Institutions
 
-| No | Institution Name |
-|----|------------------|
-| 1 | SD Mutiara Bangsa Lembang Bandung |
+| No | Institution Name | Location |
+|----|------------------|----------|
+| 1 | SD Maria Bintang Laut Bandung | Bandung |
 
 ---
 
-*For more information about our services and solutions, please visit our website or contact us directly.*
+## 📞 Contact Information
+
+<div align="center">
+
+| Contact Method | Details |
+|----------------|---------|
+| 🌐 **Website** | [https://k2net.id](https://k2net.id) |
+| 📧 **Email** | [info@k2net.id](mailto:info@k2net.id) |
+| 🏢 **Company** | PT. Kirana Karina Network |
+
+</div>
+
+---
+
+## 🌐 Quick Links
+
+- [🏠 Company Website](https://k2net.id)
+- [👥 Development Team - Jejak Awan](https://jejakawan.com)
+- [📧 Contact Us](mailto:info@k2net.id)
+
+---
+
+<div align="center">
+
+**For more information about our services and solutions, please visit our website or contact us directly.**
+
+Made with ❤️ by K2NET Team
+
+</div>
