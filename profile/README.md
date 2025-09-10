@@ -23,63 +23,47 @@ We are proud to serve educational institutions and organizations across Indonesi
 
 ### Elementary Schools (SD)
 
-| No | School Name | Website |
-|----|-------------|---------|
-| 1 | SDN 036 Bandung | sdn036-bandung.sch.id |
-| 2 | SDN 250 Jakarta Purwa | sdn250jakapurwa.sch.id |
+| No | School Name | No | School Name |
+|----|-------------|----|-------------|
+| 1 | SDN 036 Bandung | 2 | SDN 250 Jakarta Purwa |
 
 ### Junior High Schools (SMP)
 
-| No | School Name | Website |
-|----|-------------|---------|
-| 1 | SMP Negeri 1 Bandung | smpn1bdg.sch.id |
-| 2 | SMP Negeri 4 Bandung | smpn4-bdg.sch.id |
-| 3 | SMP Negeri 7 Bandung | smpn7-bandung.sch.id |
-| 4 | SMP Negeri 8 Bandung | smpn8-bdg.sch.id |
-| 5 | SMP Negeri 9 Bandung | smpn9-bdg.sch.id |
-| 6 | SMP Negeri 11 Bandung | smpn11-bdg.sch.id |
-| 7 | SMP Negeri 13 Bandung | smpn13-bdg.sch.id |
-| 8 | SMP Negeri 14 Bandung | smpn14-bdg.sch.id |
-| 9 | SMP Negeri 16 Bandung | smpn16bdg.sch.id |
-| 10 | SMP Negeri 18 Bandung | smpn18bdg.sch.id |
-| 11 | SMP Negeri 19 Bandung | smpn19-bdg.sch.id |
-| 12 | SMP Negeri 27 Bandung | smpn27-bandung.sch.id |
-| 13 | SMP Negeri 35 Bandung | smpn35-bdg.sch.id |
-| 14 | SMP Negeri 36 Bandung | smpn36bdg.sch.id |
-| 15 | SMP Negeri 37 Bandung | smpn37-bdg.sch.id |
-| 16 | SMP Negeri 39 Bandung | smpn39-bdg.sch.id |
-| 17 | SMP Negeri 40 Bandung | smpn40-bdg.sch.id |
-| 18 | SMP Negeri 43 Bandung | smpn43bdg.sch.id |
-| 19 | SMP Negeri 44 Bandung | smpn44-bdg.sch.id |
-| 20 | SMP Negeri 45 Bandung | smpn45bdg.sch.id |
-| 21 | SMP Negeri 47 Bandung | smpn47bdg.sch.id |
-| 22 | SMP Negeri 49 Bandung | smpn49-bdg.sch.id |
-| 23 | SMP Negeri 51 Bandung | smpn51-bdg.sch.id |
-| 24 | SMP Negeri 52 Bandung | smpn52bandung.sch.id |
-| 25 | SMP Negeri 56 Bandung | smpn56-bdg.sch.id |
-| 26 | SMP Istiqamah Bandung | smpistiqamahbandung.sch.id |
-| 27 | SMP Waringin | smpwaringin.sch.id |
+| No | School Name | No | School Name |
+|----|-------------|----|-------------|
+| 1 | SMP Negeri 1 Bandung | 15 | SMP Negeri 37 Bandung |
+| 2 | SMP Negeri 4 Bandung | 16 | SMP Negeri 39 Bandung |
+| 3 | SMP Negeri 7 Bandung | 17 | SMP Negeri 40 Bandung |
+| 4 | SMP Negeri 8 Bandung | 18 | SMP Negeri 43 Bandung |
+| 5 | SMP Negeri 9 Bandung | 19 | SMP Negeri 44 Bandung |
+| 6 | SMP Negeri 11 Bandung | 20 | SMP Negeri 45 Bandung |
+| 7 | SMP Negeri 13 Bandung | 21 | SMP Negeri 47 Bandung |
+| 8 | SMP Negeri 14 Bandung | 22 | SMP Negeri 49 Bandung |
+| 9 | SMP Negeri 16 Bandung | 23 | SMP Negeri 51 Bandung |
+| 10 | SMP Negeri 18 Bandung | 24 | SMP Negeri 52 Bandung |
+| 11 | SMP Negeri 19 Bandung | 25 | SMP Negeri 56 Bandung |
+| 12 | SMP Negeri 27 Bandung | 26 | SMP Istiqamah Bandung |
+| 13 | SMP Negeri 35 Bandung | 27 | SMP Waringin |
+| 14 | SMP Negeri 36 Bandung | | |
 
 ### Senior High Schools (SMA)
 
-| No | School Name | Website |
-|----|-------------|---------|
-| 1 | SMA Negeri 1 Soreang | sman1soreang.sch.id |
-| 2 | SMA Negeri 6 Cimahi | sman6cimahi.net |
-| 3 | SMA Negeri 24 Bandung | sman24bdg.sch.id |
-| 4 | SMA Trinitas | smatrinitas.net |
+| No | School Name | No | School Name |
+|----|-------------|----|-------------|
+| 1 | SMA Negeri 1 Soreang | 3 | SMA Negeri 24 Bandung |
+| 2 | SMA Negeri 6 Cimahi | 4 | SMA Trinitas |
 
 ### Vocational High Schools (SMK)
 
-| No | School Name | Website |
-|----|-------------|---------|
-| 1 | SMK Negeri 6 Bandung | smkn6bdg.sch.id |
+| No | School Name |
+|----|-------------|
+| 1 | SMK Negeri 6 Bandung |
 
 ### Other Educational Institutions
 
-| No | Institution Name | Website |
-|----|------------------|---------|
-| 1 | SD Mutiara Bangsa Lembang Bandung | sdmblbdg.info |
+| No | Institution Name |
+|----|------------------|
+| 1 | SD Mutiara Bangsa Lembang Bandung |
 
 ---
 
