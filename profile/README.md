@@ -1,22 +1,28 @@
 # 🏢 K2NET - PT. Kirana Karina Network
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Company-K2NET-blue?style=for-the-badge&logo=company" alt="K2NET Company">
-  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Industry-IT%20Solutions-orange?style=for-the-badge" alt="Industry">
+  <a href="https://k2net.id">
+    <img src="https://img.shields.io/badge/Company-K2NET-blue?style=for-the-badge&logo=company" alt="K2NET Company">
+  </a>
+  <a href="https://k2net.id">
+    <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Status">
+  </a>
+  <a href="https://k2net.id">
+    <img src="https://img.shields.io/badge/Industry-IT%20Solutions-orange?style=for-the-badge" alt="Industry">
+  </a>
 </div>
 
 ---
 
 ## 📋 Table of Contents
 
-- 🏢 About Us
-- 🎯 Our Mission & Vision
-- 👥 Our Team
-- 🛠️ Our Services
-- 🏫 Our Clients
-- 📞 Contact Information
-- 🌐 Quick Links
+- [🏢 About Us](#-about-us)
+- [🎯 Our Mission & Vision](#-our-mission--vision)
+- [👥 Our Team](#-our-team)
+- [🛠️ Our Services](#️-our-services)
+- [🏫 Our Clients](#-our-clients)
+- [📞 Contact Information](#-contact-information)
+- [🌐 Quick Links](#-quick-links)
 
 ---
 
@@ -42,7 +48,7 @@
 ## 👥 Our Team
 
 ### Development Partners
-- **🌐 Jejak Awan:** https://jejakawan.com
+- **🌐 Jejak Awan:** [https://jejakawan.com](https://jejakawan.com)
 - **☁️ Ex-Cloud**
 
 ---
@@ -106,8 +112,8 @@ We are proud to serve educational institutions and organizations across Indonesi
 
 | Contact Method | Details |
 |----------------|---------|
-| 🌐 **Website** | https://k2net.id |
-| 📧 **Email** | info@k2net.id |
+| 🌐 **Website** | [https://k2net.id](https://k2net.id) |
+| 📧 **Email** | [info@k2net.id](mailto:info@k2net.id) |
 | 🏢 **Company** | PT. Kirana Karina Network |
 
 </div>
@@ -116,9 +122,9 @@ We are proud to serve educational institutions and organizations across Indonesi
 
 ## 🌐 Quick Links
 
-- 🏠 Company Website: https://k2net.id
-- 👥 Development Team - Jejak Awan: https://jejakawan.com
-- 📧 Contact Us: info@k2net.id
+- [🏠 Company Website](https://k2net.id)
+- [👥 Development Team - Jejak Awan](https://jejakawan.com)
+- [📧 Contact Us](mailto:info@k2net.id)
 
 ---
 
